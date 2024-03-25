@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Devereauxe/CounterRedux.git/static/css/main.c0cae3e7.css",
+    "main.js": "/Devereauxe/CounterRedux.git/static/js/main.39899969.js",
+    "index.html": "/Devereauxe/CounterRedux.git/index.html",
+    "main.c0cae3e7.css.map": "/Devereauxe/CounterRedux.git/static/css/main.c0cae3e7.css.map",
+    "main.39899969.js.map": "/Devereauxe/CounterRedux.git/static/js/main.39899969.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0cae3e7.css",
+    "static/js/main.39899969.js"
+  ]
+}
